@@ -29,3 +29,11 @@ ORM/Query Builder (optional): Sequelize / Knex.js
 FAKER
 ![WhatsApp Image 2025-08-29 at 11 39 36_f69a5ecb](https://github.com/user-attachments/assets/e9bc10be-2fe2-4dd2-aba6-817221cc011c)
 
+---
+==>After making a folder in vscode or any other plateform 
+1.npm init
+2.install facker package(npm i @faker-js/faker)
+3.make a file in the folder named "index.js"
+4. use the documentation of faker-js
+
+

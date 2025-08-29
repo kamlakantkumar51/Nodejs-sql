@@ -24,3 +24,8 @@ Database: SQL (MySQL / PostgreSQL / SQLite)
 ORM/Query Builder (optional): Sequelize / Knex.js
 
 ---
+
+
+FAKER
+![WhatsApp Image 2025-08-29 at 11 39 36_f69a5ecb](https://github.com/user-attachments/assets/e9bc10be-2fe2-4dd2-aba6-817221cc011c)
+

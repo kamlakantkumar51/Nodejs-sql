@@ -36,4 +36,6 @@ FAKER
 3.make a file in the folder named "index.js"
 4. use the documentation of faker-js
 
+---
+
 
